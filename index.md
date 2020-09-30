@@ -1,3 +1,3 @@
 # paxriel.github.io
 
-## [KSP Mission Files](./ksp)
+* [KSP Mission Files](./ksp)
