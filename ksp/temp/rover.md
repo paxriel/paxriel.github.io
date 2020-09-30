@@ -2,5 +2,5 @@
 
 ## Rovers
 
-| Craft | Status |  
-|-------|--------|
+| Craft | Status | Docking |
+|-------|--------|---------|
