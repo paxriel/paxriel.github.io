@@ -1,4 +1,4 @@
-# [Kerbal Space Program - Paxriel’s Mission Files](./)
+# [Kerbal Space Program - Paxriel’s Mission Files](../)
 
 ## Station Codes
 
