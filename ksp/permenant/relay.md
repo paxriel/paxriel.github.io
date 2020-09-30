@@ -27,7 +27,7 @@ This series is only used within the Kerbin system and is now superseded by the 0
 
 | Craft | Status |
 |-------|--------|
-| R-MU010 | Orbiting Mun \[Reusable model\] |
+| R-MU010 | Orbiting Mun |
 | R-MU011 | Orbiting Mun |
 | R-MU012 | Orbiting Mun |
 | R-MM010 | Orbiting Minmus |
