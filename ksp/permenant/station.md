@@ -12,5 +12,5 @@ The command stations on Moho and Eve have RTGs, solar panels and cooling systems
 | AT2 | Eve "Ash Twin" Command Station v2 | Planned | D23 |
 | DCS | Duna Command Station | Controlled Flight into Kerbin | D2 |
 | DC2 | Duna Command Station v2 | Planned | D23 |
-| PCS | Dres "Pluto" Command Station | Out of fuel | D2 |
+| PCS | Dres "Pluto" Command Station | Controlled Flight into Kerbin | D2 |
 | PC2 | Dres "Pluto" Command Station v2 | Planned | D23 |
