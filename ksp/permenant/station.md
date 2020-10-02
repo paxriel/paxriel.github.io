@@ -14,3 +14,60 @@ The command stations on Moho and Eve have RTGs, solar panels and cooling systems
 | DC2 | Duna Command Station v2 | Planned | D23 |
 | PCS | Dres "Pluto" Command Station | Controlled Flight into Kerbin | D2 |
 | PC2 | Dres "Pluto" Command Station v2 | Planned | D23 |
+
+## Module Acronyms
+
+| Acronym | Definition |
+|---------|------------|
+| C | Crew Module |
+| D | Detachables (Rovers, Smaller Ships, Mining Craft etc) |
+| E | Electricity Module |
+| P | Propulsion Module |
+| S | Science Module (Detachable) |
+| T | Thermal Module |
+
+## Station Design
+
+For all stations except for Moho and Eve, the design of the station is as follows:
+
+**Front View**
+
+```
+  D S P S D
+  | | | | |
+D-E-P-C-P-E-D
+  | | | | |
+  D S P S D
+```
+
+**Top View**
+
+```
+  E P   P E
+  | |   | |
+D-D-S-P-S-D-D
+  | |   | |
+  E P   P E
+```
+
+For the stations on Moho and Eve, the design of the station is as follows:
+
+**Front View**
+
+```
+  D S P S D
+  | | | | |
+T-E-P-C-P-E-T
+  | | | | |
+  D S P S D
+```
+
+**Top View**
+
+```
+  E P   P E
+  | |   | |
+T-D-S-P-S-D-T
+  | |   | |
+  E P   P E
+```
