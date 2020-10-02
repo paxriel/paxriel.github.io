@@ -30,4 +30,4 @@
 | A0024 | Converted to E-MM-HAL \[Reusable model\] | |
 | A0025 | Landed at Kerbin | D2 |
 | A0026 | Landed at Kerbin | D2 |
-| A0027 | Planned | D2 |
+| A0027 | Landed at Kerbin | D2 |
