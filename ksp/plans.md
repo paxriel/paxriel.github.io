@@ -4,7 +4,7 @@
 
 ### Short Term
 
-- Launch new Dres command station (PC2 + PR2, ~5500 dv) \[Planned\]
+- Launch new Dres command station (PC2 + PR2, ~5500 dv) \[See below\]
 
 ### Long Term (Kerbol)
 
