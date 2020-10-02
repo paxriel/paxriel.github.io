@@ -15,7 +15,7 @@
 
 ### Long Term (Dres)
 
-- Launch command station to Dres (PC2 + PR2, ~7000 dv) \[Core module currently orbiting Kerbin at 240 km\]
+- Launch command station to Dres (PC2 + PR2, ~7000 dv) \[1 Module Orbiting Kerbin at 240 km\]
 - Launch long range relay constellation to Dres (DR020-DR028) \[9/9 orbiting Kerbin between 260 and 340 km\]
 
 ### Long Term (Eve)
