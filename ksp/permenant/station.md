@@ -33,8 +33,8 @@ For all stations except for Moho and Eve, the design of the station is as follow
 **Front View**
 
 ```
-  D S P S D
-  | | | | |
+  D S   S D
+  | |   | |
 D-E-P-C-P-E-D
   | | | | |
   D S P S D
@@ -45,7 +45,7 @@ D-E-P-C-P-E-D
 ```
   E P   P E
   | |   | |
-D-D-S-P-S-D-D
+D-D-S-C-S-D-D
   | |   | |
   E P   P E
 ```
@@ -55,8 +55,8 @@ For the stations on Moho and Eve, the design of the station is as follows:
 **Front View**
 
 ```
-  D S P S D
-  | | | | |
+  D S   S D
+  | |   | |
 T-E-P-C-P-E-T
   | | | | |
   D S P S D
@@ -67,7 +67,7 @@ T-E-P-C-P-E-T
 ```
   E P   P E
   | |   | |
-T-D-S-P-S-D-T
+T-D-S-C-S-D-T
   | |   | |
   E P   P E
 ```
