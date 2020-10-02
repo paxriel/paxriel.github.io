@@ -4,8 +4,6 @@
 
 ### Short Term
 
-- Transfer all crew from old Dres command station to rescue craft (A0027-D2) \[Planned\]
-- Deorbit old Dres command station (PCS + PRL) \[Currently orbiting Kerbin at 220 km\]
 - Launch new Dres command station (PC2 + PR2, ~5500 dv) \[Planned\]
 
 ### Long Term (Kerbol)
