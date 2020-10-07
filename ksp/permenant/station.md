@@ -13,7 +13,7 @@ The command stations on Moho and Eve have RTGs, solar panels and cooling systems
 | DCS | Duna Command Station | Controlled Flight into Kerbin | D2 |
 | DC2 | Duna Command Station v2 | Planned | D23 |
 | PCS | Dres "Pluto" Command Station | Controlled Flight into Kerbin | D2 |
-| PC2 | Dres "Pluto" Command Station v2 | 1 Module Orbiting Kerbin | D23 |
+| PC2 | Dres "Pluto" Command Station v2 | 3 Modules Orbiting Kerbin at 240 km | D23 |
 
 ## Module Acronyms
 
